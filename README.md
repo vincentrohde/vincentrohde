@@ -3,7 +3,7 @@
 Welcome to my Github profile, I am a Javascript/ React Developer from Berlin. Feel free to contact me, if you have any (open-source) projects
 that need some JS support :)
 
-#### 📫 How to reach me: ...
+#### 📫  How to reach me: ...
 + 🐦 [Twitter](https://twitter.com/vincentiscoding)
 
 <!--
