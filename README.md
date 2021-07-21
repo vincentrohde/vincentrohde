@@ -1,22 +1,34 @@
-## Hi there 👋
+# Hey folks 👋
 
-Welcome to my Github profile, I am a Javascript/ React Developer from Berlin. Feel free to contact me, if you have any (open-source) projects
-that need some JS support :)
+Welcome to my Github page! My name is [Vincent Rohde](https://vincentroh.de/). I am living in Berlin (Germany 🇩🇪) and currently working for Endava.
 
-#### 📫  How to reach me: ...
-+ 🐦 [Twitter](https://twitter.com/vincentiscoding)
+### How to reach me 📫 :
 
-<!--
-**vincentrohde/vincentrohde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you want to reach out for a collaboration, feel free to contact me via [mail@vincentrohd.de](mailto:mail@vincentrohd.de)
 
-Here are some ideas to get you started:
+### A short summary about myself 👨🏻‍💻 :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Passionate Front-end developer with an eye for outstanding visual design (my secret superpower 😉). 
+- Implementing personal projects and working freelance in my free-time. 
+- Focused on JavaScript (3+ years experience) and it's technologies.
+
+### My tech stack 🧬 :
+- JavaScript / ES6 (3+ years experience)
+- React (2+ years)
+- Next.js
+- TypeScript (1 year)
+- Node.js
+- Docker
+- SCSS
+
+### Projects I am very proud of 💖 :
+
+#### [The video library of the Austrian 🇦🇹 national public service broadcaster (ORF)](https://tvthek.orf.at/)
+Handling over 400,000 visits each day in 2020.
+
+#### [My bachelor's thesis 🎓](https://github.com/vincentrohde/bachelor)
+Educational plattform, that returns tailor-made content based on the student‘s learning profile and recommends new content on observed preferences.
+
+### Languages 🌎 :
+- German 🇩🇪 (mother tongue)
+- English 🇺🇸 (fluent)
