@@ -4,8 +4,7 @@ Welcome to my Github page! My name is [Vincent Rohde](https://vincentroh.de/). I
 
 ### How to reach me 📫 :
 
-If you want to reach out for a collaboration, feel free to contact me via [mail@vincentrohd.de](mailto:mail@vincentrohd.de)
-
+If you want to reach out for a collaboration, feel free to contact me via [mail@vincentrohd.de](mailto:mail@vincentrohd.de) <br>
 For extra content check out my website [vincentroh.de](https://vincentroh.de/)
 
 ### A short summary about myself 👨🏻‍💻 :
