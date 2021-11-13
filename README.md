@@ -28,4 +28,4 @@ For extra content check out my website [vincentroh.de](https://vincentroh.de/)
 Handling 400,000 visits each day in 2020 ([Source](https://der.orf.at/unternehmen/aktuell/tvthek-2020-jahresbilanz100.html))
 
 #### [Harvest Dashboard ⏰](https://github.com/vincentrohde/harvest-dashboard)
-open-source, third-party React client for the Harvest API V2 (time-tracking)
+Open-source, third-party React client for the Harvest API V2 (time-tracking)
