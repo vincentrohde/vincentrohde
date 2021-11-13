@@ -27,5 +27,5 @@ For extra content check out my website [vincentroh.de](https://vincentroh.de/)
 #### [The video library of the Austrian 🇦🇹 national public service broadcaster (ORF)](https://tvthek.orf.at/)
 Handling 400,000 visits each day in 2020 ([Source](https://der.orf.at/unternehmen/aktuell/tvthek-2020-jahresbilanz100.html))
 
-#### [My bachelor's thesis 🎓](https://github.com/vincentrohde/bachelor)
-Educational plattform, that returns tailor-made content based on the student‘s learning profile and recommends new content on observed preferences.
+#### [Harvest Dashboard ⏰](https://github.com/vincentrohde/harvest-dashboard)
+open-source, third-party React client for the Harvest API V2 (time-tracking)
