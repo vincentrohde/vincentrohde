@@ -15,11 +15,11 @@ For extra content check out my website [vincentroh.de](https://vincentroh.de/)
 
 ### My tech stack 🧬
 - JavaScript / ES6 (3+ years experience) 
-- React (2+ years)
-- Next.js
-- TypeScript (1+ year)
-- Node.js 
-- Docker 
+- React (3+ years)
+- Next.js (2+ years)
+- TypeScript (2+ years)
+- Node.js (3+ years)
+- Docker (2+ years)
 - SCSS (3+ years)
 
 ### Projects I am very proud of 💖
