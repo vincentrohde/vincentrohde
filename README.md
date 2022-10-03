@@ -7,6 +7,8 @@ Welcome to my Github page! My name is Vincent Rohde. I am living in Berlin (Germ
 If you want to reach out for a collaboration, feel free to contact me via [mail@vincentrohd.de](mailto:mail@vincentrohd.de) <br>
 For extra content check out my website [vincentroh.de](https://vincentroh.de/)
 
+[Read more from me via Medium](https://medium.com/@vincentiscoding)
+
 ### A short summary about myself 👨🏻‍💻
 
 - Passionate Front-end developer with an eye for outstanding visual design (my secret superpower 😉). 
